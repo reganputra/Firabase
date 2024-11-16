@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "543244704689",
+    "firebase_url": "https://fir-chat-17492-default-rtdb.firebaseio.com",
     "project_id": "fir-chat-17492",
     "storage_bucket": "fir-chat-17492.firebasestorage.app"
   },
